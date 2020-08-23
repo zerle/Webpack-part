@@ -1,12 +1,12 @@
-### howToBuildMyWebpack
+## howToBuildMyWebpack
 手写webpack原理
-`bash
+```bash
     cd howToBuildMyWebpack
-`
-`bash
+```
+```bash
     npm install
-`
-`bash
+```
+```bash
     node bundle.js
-`
-### 查看 index.html
+```
+## 查看 index.html
