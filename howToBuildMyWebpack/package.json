@@ -1,0 +1,20 @@
+{
+  "name": "howToBuildMyWebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "dependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/parser": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/traverse": "^7.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
